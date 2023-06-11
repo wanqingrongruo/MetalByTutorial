@@ -2,7 +2,6 @@
 The Demos that l learn metal
 
 ## Chapter1
-***
 device -> model -> pipeline -> render
 
 1. model: 还没理解
@@ -15,6 +14,5 @@ pipelinedescriptor： 管理管道信息， pixelformat + vertex function + frag
  * queue  -> command buffer -> command encoder 
                         
 ## Chapter2
-***
 
 
